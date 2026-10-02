@@ -24,13 +24,13 @@
 
 </div>
 
-## ıllıllı ＤＡＴＡＢＡＳＥ： ＳＯＢＲＥ ＭＩＭ ıllıllı
+## ＳＯＢＲＥ ＭＩＭ
 
 > **ID:** Rodrigo Souza | **Codinome:** Skyyyzz
 > **Status:** Estudante de Programação 
 > **Base de Operações:** São Paulo, SP 📍
 
-Entusiasta de tecnologia e desenvolvimento de software. Construindo soluções, resolvendo problemas e hackeando códigos (no bom sentido). Focado em dominar o front-end e expandir meus conhecimentos para o full-stack. Sempre em busca de otimização e código limpo.
+Entusiasta de tecnologia e desenvolvimento de software. Construindo soluções, resolvendo problemas e hackeando códigos (no bom sentido). Focado em dominar o full-stack. Sempre em busca de otimização e código limpo.
 
 ---
 
@@ -93,7 +93,7 @@ Entusiasta de tecnologia e desenvolvimento de software. Construindo soluções, 
 
 ---
 
-## 💻 ＴＥＲＭＩＮＡＬ： ＯＢＪＥＴＩＶＯＳ
+## 💻 ＯＢＪＥＴＩＶＯＳ
 
 ```bash
 root@skyyyzz-server:~/goals# cat current_status.txt
