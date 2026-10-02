@@ -1,67 +1,44 @@
-# 👋 Olá, eu sou o Rodrigo!
+👋 > OLÁ, EU SOU O RODRIGO!
 
-🎓 Estudante de Ciência da Computação  
-💻 Estudando desenvolvimento de software e programação  
+🎓 Estudante de Ciência da Computação
+💻 Estudando desenvolvimento de software e programação
 🚀 Buscando aprender, criar projetos e evoluir na área de tecnologia.
 
----
+🛠️ > TECNOLOGIAS QUE ESTOU ESTUDANDO
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,vscode" /> </div>
+📚 > ATUALMENTE ESTUDANDO
+🐍 Python
+⚛️ React
+🌐 Desenvolvimento Web
+🗄️ MySQL
+💻 Lógica de Programação
+📐 Computação e Algoritmos
+🚀 > ALGUNS PROJETOS
+Projeto	Tecnologia
+CodeCraft	JavaScript
+Atividade-3-ReactJS	React
+Desafios-Js-TDS02	JavaScript
+ProjetoJS-TDS02	JavaScript
+Projeto-Loja-TDS02	HTML
+ReactJsAppComponents-TDS02	React
+ProjetosWEB-TDS02	HTML
+> CURRENT_MISSION
+[████████████████░░░░] Learning
+[██████████████░░░░░░] Building
+[████████████░░░░░░░░] Improving
 
-## 🛠️ Tecnologias que estou estudando
+Foco atual: programação, desenvolvimento web e Ciência da Computação.
 
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,vscode" />
-
-</div>
-
----
-
-## 📚 Atualmente estudando
-
-- 🐍 Python
-- ⚛️ React
-- 🌐 Desenvolvimento Web
-- 🗄️ MySQL
-- 💻 Lógica de Programação
-- 📐 Computação e Algoritmos
-
----
-
-## 🚀 Alguns projetos
-
-| Projeto | Tecnologia |
-|---|---|
-| [CodeCraft](https://github.com/Skyyyzz/CodeCraft) | JavaScript |
-| [Atividade-3-ReactJS](https://github.com/Skyyyzz/Atividade-3-ReactJS) | React |
-| [Desafios-Js-TDS02](https://github.com/Skyyyzz/Desafios-Js-TDS02) | JavaScript |
-| [ProjetoJS-TDS02](https://github.com/Skyyyzz/ProjetoJS-TDS02) | JavaScript |
-| [Projeto-Loja-TDS02](https://github.com/Skyyyzz/Projeto-Loja-TDS02) | HTML |
-| [ReactJsAppComponents-TDS02](https://github.com/Skyyyzz/ReactJsAppComponents-TDS02) | React |
-| [ProjetosWEB-TDS02](https://github.com/Skyyyzz/ProjetosWEB-TDS02) | HTML |
-
----
-
-## 📊 GitHub
-
+📊 > GITHUB_STATS
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skyyyzz&show_icons=true&theme=tokyonight&hide_border=true&title_color=00eaff&icon_color=00eaff"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyyyzz&layout=compact&theme=tokyonight&hide_border=true&title_color=00eaff"/> </div>
+📫 > CONTATO
+<div align="center"> <a href="https://github.com/Skyyyzz"> <img src="https://img.shields.io/badge/GitHub-Skyyyzz-0d1117?style=for-the-badge&logo=github&logoColor=00eaff"/> </a> <a href="https://www.linkedin.com/in/rodrigo-souza-5303b9339/"> <img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Souza-0d1117?style=for-the-badge&logo=linkedin&logoColor=00eaff"/> </a> </div>
 <div align="center">
+╔══════════════════════════════════════╗
+║        SYSTEM STATUS : ONLINE        ║
+║        KEEP LEARNING • KEEP BUILDING ║
+╚══════════════════════════════════════╝
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skyyyzz&show_icons=true&theme=tokyonight&hide_border=true"/>
+"Sempre aprendendo, sempre evoluindo." 🚀
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyyyzz&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📫 Contato
-
-💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-souza-5303b9339/)  
-🐙 [GitHub](https://github.com/Skyyyzz)
-
----
-
-<div align="center">
-
-**"Sempre aprendendo, sempre evoluindo." 🚀**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,50:161b22,100:0d1117&height=100&section=footer"/> </div> ```
