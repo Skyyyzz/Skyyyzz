@@ -32,6 +32,16 @@ Busco minha **primeira oportunidade de estágio em TI**, para aprender com a equ
 
 ## /repositorios
 
+### Projeto em destaque
+
+**[E-Commerce-Perifericos](https://github.com/Skyyyzz/E-Commerce-Perifericos)**
+
+Projeto de e-commerce de periféricos, em desenvolvimento.
+
+<a href="https://github.com/Skyyyzz/E-Commerce-Perifericos"><img src="https://img.shields.io/badge/Ver_E--Commerce-243447?style=for-the-badge&logo=github&logoColor=94a3b8" alt="Ver repositório E-Commerce-Perifericos" /></a>
+
+### Outros repositórios
+
 Uma seleção dos meus repositórios públicos de estudo:
 
 | Repositório | O que você encontra |
