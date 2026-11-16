@@ -1,105 +1,62 @@
 <div align="center">
 
-<!-- Banner de Inicialização -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=150&section=header&text=SYSTEM_BOOT...&fontSize=30&fontColor=000000&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:243447&height=190&section=header&text=Rodrigo%20Souza&fontSize=42&fontColor=c9d1d9&desc=Skyyyzz%20%7C%20Desenvolvimento%20de%20Software&descSize=16&descAlignY=70" width="100%" alt="Rodrigo Souza — Skyyyzz | Desenvolvimento de Software" />
 
-<!-- Typing Animation -->
-<a href="https://github.com/Skyyyzz">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%5B%3E%5D+CONNECTING+TO+SERVER...;%5B%3E%5D+USER%3A+RODRIGO+SOUZA+DETECTED;%5B%3E%5D+LOADING+DEVELOPER+PROTOCOLS...;%5B%3E%5D+ACCESS+GRANTED." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=%3E+Aprendendo%2C+praticando%2C+evoluindo.;%3E+Transformando+l%C3%B3gica+em+c%C3%B3digo.;%3E+Um+commit+de+cada+vez." width="100%" alt="Aprendendo, praticando, evoluindo. Transformando lógica em código. Um commit de cada vez." />
 
-<br>
-
-<!-- Redes Sociais -->
-<a href="https://www.linkedin.com/in/rodrigo-souza-5303b9339" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn"/>
-</a>
-<a href="mailto:rodrigosouzarc789@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFFF" alt="Email"/>
-</a>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
+<a href="https://www.linkedin.com/in/rodrigo-souza-5303b9339"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=94a3b8" alt="LinkedIn" /></a>
+<a href="mailto:rodrigosouzarc789@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=94a3b8" alt="Email" /></a>
+<a href="https://github.com/Skyyyzz?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-161b22?style=for-the-badge&logo=github&logoColor=94a3b8" alt="Repositórios" /></a>
 
 </div>
 
-## ＳＯＢＲＥ ＭＩＭ
+## /sobre-mim
 
-> **ID:** Rodrigo Souza | **Codinome:** Skyyyzz
-> **Status:** Estudante de Programação 
-> **Base de Operações:** São Paulo, SP 📍
+Olá! Sou **Rodrigo Souza**, estudante de programação de **São Paulo, SP**.
 
-Entusiasta de tecnologia e desenvolvimento de software. Construindo soluções, resolvendo problemas e hackeando códigos (no bom sentido). Focado em dominar o full-stack. Sempre em busca de otimização e código limpo.
+Estou construindo minha trajetória em desenvolvimento de software, com foco em **lógica de programação, JavaScript e desenvolvimento web**. Uso este espaço para registrar exercícios, projetos acadêmicos e minha evolução nos estudos.
 
----
+Busco minha **primeira oportunidade de estágio em TI**, para aprender com a equipe e contribuir com organização, curiosidade e disposição para resolver problemas.
 
-## ⚙️ ＴＥＣＨ ＳＴＡＣＫ ＆ ＦＥＲＲＡＭＥＮＴＡＳ
+## /tecnologias
+
+**Base de estudos e prática**
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=94a3b8" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css&logoColor=94a3b8" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=94a3b8" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=94a3b8" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=94a3b8" alt="GitHub" />
+</p>
+
+**Aprofundando conhecimentos:** React e Python.
+
+## /repositorios
+
+Uma seleção dos meus repositórios públicos de estudo:
+
+| Repositório | O que você encontra |
+| :--- | :--- |
+| [Desafios-Js](https://github.com/Skyyyzz/Desafios-Js) | Exercícios em JavaScript com páginas HTML e estilos CSS. |
+| [Logica-com-JavaScript](https://github.com/Skyyyzz/Logica-com-JavaScript) | Prática de lógica de programação em JavaScript. |
+| [Portugol-VisualG-TDS02](https://github.com/Skyyyzz/Portugol-VisualG-TDS02) | Exercícios de algoritmos e fundamentos de lógica de programação. |
+
+## /proximos-passos
+
+```text
+rodrigo@skyyyzz:~$ cat objetivos.txt
+
+[em prática]  Fortalecer lógica, algoritmos e JavaScript
+[estudando]   Aprofundar conhecimentos em React e Python
+[próximo]     Desenvolver e documentar aplicações completas
+[objetivo]    Conquistar minha primeira oportunidade em TI
+```
 
 <div align="center">
-  <br>
-  <img src="https://skillicons.dev/icons?i=js,css,html,react,python,git,github,vscode,figma,bash&theme=dark" alt="Tech Stack" />
-  <br><br>
+
+<sub>Aprendizado contínuo · Código com propósito · Evolução na prática</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:243447&height=90&section=footer" width="100%" alt="Rodapé em tons de grafite e azul escuro" />
+
 </div>
-
----
-
-## 📁 ＡＲＱＵＩＶＯＳ： ＰＲＯＪＥＴＯＳ ＥＭ ＤＥＳＴＡＱＵＥ
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">👾 CodeCraft</h3>
-        <p align="center">Projeto em JavaScript puro desenvolvido em aula. Experimentos e lógica de programação.</p>
-        <p align="center">
-          <a href="https://github.com/Skyyyzz/CodeCraft">
-            <img src="https://img.shields.io/badge/Acessar_Repositório-000000?style=for-the-badge&logo=github&logoColor=00FFFF">
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">⚛️ Atividade-3-ReactJS</h3>
-        <p align="center">Aplicação focada em componentização, estado e propriedades usando o ecossistema React.</p>
-        <p align="center">
-          <a href="https://github.com/Skyyyzz/Atividade-3-ReactJS">
-            <img src="https://img.shields.io/badge/Acessar_Repositório-000000?style=for-the-badge&logo=github&logoColor=00FFFF">
-          </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🛒 Projeto-Loja-TDS02</h3>
-        <p align="center">Interface de loja virtual construída com os fundamentos da web (HTML5 e CSS3).</p>
-        <p align="center">
-          <a href="https://github.com/Skyyyzz/Projeto-Loja-TDS02">
-            <img src="https://img.shields.io/badge/Acessar_Repositório-000000?style=for-the-badge&logo=github&logoColor=00FFFF">
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🧠 Desafios-Js-TDS02</h3>
-        <p align="center">Resolução de problemas lógicos e algoritmos estruturados utilizando JavaScript.</p>
-        <p align="center">
-          <a href="https://github.com/Skyyyzz/Desafios-Js-TDS02">
-            <img src="https://img.shields.io/badge/Acessar_Repositório-000000?style=for-the-badge&logo=github&logoColor=00FFFF">
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 💻 ＯＢＪＥＴＩＶＯＳ
-
-```bash
-root@skyyyzz-server:~/goals# cat current_status.txt
-[ OK ] Consolidar base em HTML, CSS e JavaScript.
-[ OK ] Iniciar desenvolvimento com ReactJS.
-[ LOADING ] Explorar backend e automação com Python...
-[ LOADING ] Construir aplicações completas e responsivas.
-root@skyyyzz-server:~/goals# echo "Never stop learning."
-Never stop learning.
